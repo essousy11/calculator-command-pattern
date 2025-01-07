@@ -20,7 +20,7 @@ Ce projet est une calculatrice interactive développée avec React, utilisant le
     JavaScript (ES6+) : Langage principal.
     Design Pattern Command : Pour une gestion élégante des interactions utilisateur.
 
-    ![image](screen.PNG)
+    ![image](screen.png)
 
     
 🤝 Contribuer
